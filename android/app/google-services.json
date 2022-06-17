@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287183834698",
+    "project_id": "airplane-ead7c",
+    "storage_bucket": "airplane-ead7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287183834698:android:388f25cfbb6584894ba0b3",
+        "android_client_info": {
+          "package_name": "com.kenny.airplane_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287183834698-dq5sre08b9sd4sb7tmimr2igrqusqkrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJjzIGuJkWT22uIDk59abM2-UbBgnEaFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287183834698-dq5sre08b9sd4sb7tmimr2igrqusqkrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
